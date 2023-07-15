@@ -1,0 +1,88 @@
+[
+    [
+        "Basic",
+        "999 - 9999",
+        [
+            "Static Website",
+            "Categories",
+            " - Portfolio",
+            " - Blog",
+            " - Landing Page",
+            " - Personal Website",
+            " - Event/Conference"
+        ]
+    ],
+    [
+        "Intermediate",
+        "2499 - 99999",
+        [
+            "Dynamic Website",
+            "Categories",
+            " - Content Management System",
+            " - E-commerce",
+            " - Real Estate Listing",
+            " - Booking and Reservation",
+            " - Online Learning Platform",
+            " - Location-Based Services",
+            " - Collaborative Editing and Document Sharing"
+        ]
+    ],
+    [
+        "Advance",
+        "99999 - 999999",
+        [
+            "Advanced Dynamic Website",
+            "Categories",
+            " - Chat and Messaging",
+            " - Music/Video Streaming",
+            " - Stock Market/Financial Trading",
+            " - Cloud Storage and File Sharing",
+            " - Software as a Service (SaaS)",
+            " - Customer Relationship Management (CRM)",
+            " - Project Management",
+            " - Enterprise Resource Planning (ERP)"
+        ]
+    ],
+    [
+        "Custom",
+        "Let's Discuss",
+        [
+            "Anyone from Paid Plans",
+            "Custom Requirements",
+            "Unique Requirements",
+            "Flexible Pricing",
+            "On Demand customizations",
+            "On Demand support"
+        ]
+    ],
+    [
+        "Free",
+        "0",
+        [
+            "Anyone from Paid Plans",
+            "No Support",
+            "Time delays",
+            "Descisions Upto Our Team",
+            "Free and Unreliable Hosting",
+            "Free and Unreliable domain",
+            "Free and Unreliable database",
+            "On demand paid services"
+        ]
+    ],
+    [
+        "Coming Soon",
+        "...",
+        [
+            "...",
+            "...",
+            "...",
+            "...",
+            "...",
+            "...",
+            "...",
+            "...",
+            "...",
+            "..."
+        ]
+    ]
+]
