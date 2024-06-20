@@ -1,5 +1,5 @@
-## <center>Terms & Conditions</center>
-### Last Updated: 18/06/2024
+## Terms & Conditions
+### Last Updated: 20/06/2024
 
 1. **Accounts Management**:
     - All accounts related to hosting, third-party services, and other necessary services for your project will be exclusively managed by our team at TSPSoft Tech.
@@ -23,7 +23,7 @@
         
         - **Safeguarding Credibility**: By prioritizing security measures and adhering to best practices, we uphold our commitment to maintaining a high level of credibility in providing secure services.
         
-        - **Hosting Account Access**: Specifically for hosting accounts, we highly recommend customers request access only if they are confident in their technical expertise. Additionally, customers should not share the source code of our software that powers their project.
+        - **Hosting Accounts Access**: Specifically for hosting accounts, we highly recommend customers request access only if they are confident in their technical expertise. Additionally, customers should not share the source code of our software that powers their project.
 
 
 3. **Post-Purchase Accounts Access**:

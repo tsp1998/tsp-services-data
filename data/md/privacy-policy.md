@@ -1,5 +1,5 @@
-## <center>Privacy Policy</center>
-### Last Updated: 18/06/2024
+## Privacy Policy
+### Last Updated: 20/06/2024
 
 1. Information We Collect
     - We may collect personal information that you voluntarily provide to us. This includes your name, email address, phone number, and any other information you choose to share with us.
@@ -29,7 +29,7 @@
     - We may use cookies and similar tracking technologies to enhance your browsing experience and gather information about how you use our website. You can set your browser to refuse cookies or to alert you when a cookie is being sent. However, certain features of our website may not function properly without cookies.
 
 10. Third-Party Links
-    - Our website may include links to third-party websites or services. Please be aware that these external sites operate independently and have their own privacy policies and terms of use. TSPSoft is not responsible for the content, practices, or activities of any linked sites. However, we are committed to maintaining the integrity of our site and value your feedback regarding these third-party sites. If you encounter any issues or have concerns about these links, please let us know.
+    - Our website may include links to third-party websites or services. Please be aware that these external sites operate independently and have their own privacy policies and terms of use. TSPSoft Tech is not responsible for the content, practices, or activities of any linked sites. However, we are committed to maintaining the integrity of our site and value your feedback regarding these third-party sites. If you encounter any issues or have concerns about these links, please let us know.
 
 11. Children's Privacy
     - Our services are not intended for individuals under the age of 13. We do not knowingly collect personal information from children under this age. If you believe that we have inadvertently collected personal information from a child under 13, please contact us immediately. We will promptly take appropriate steps to delete such information from our records.
@@ -39,3 +39,6 @@
 
 13. Changes to this Privacy Policy
     - We reserve the right to update or modify this Privacy Policy at any time. Any changes will be posted on this page with an updated "Last Updated" date. Your continued use of our services following any modifications indicates your acceptance of the revised Privacy Policy.
+
+14. Contact Information
+    - If you have any questions, concerns, or comments about this Privacy Policy or our privacy practices, please contact us at business.tspsoft@gmail.com.
