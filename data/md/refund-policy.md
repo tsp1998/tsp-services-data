@@ -1,5 +1,5 @@
 ## Refund Policy
-### Last Updated: 20/06/2024
+### Last Updated: 21/06/2024
 
 1. **Eligibility for Refund:**
   - Products and services purchased from TSPSoft Tech are eligible for a refund if canceled within 30 days from the date of the transaction.

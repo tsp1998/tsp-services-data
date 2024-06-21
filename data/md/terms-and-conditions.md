@@ -1,5 +1,5 @@
 ## Terms & Conditions
-### Last Updated: 20/06/2024
+### Last Updated: 21/06/2024
 
 1. **Accounts Management**:
     - All accounts related to hosting, third-party services, and other necessary services for your project will be exclusively managed by our team at TSPSoft Tech.

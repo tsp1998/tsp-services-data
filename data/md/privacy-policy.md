@@ -1,5 +1,5 @@
 ## Privacy Policy
-### Last Updated: 20/06/2024
+### Last Updated: 21/06/2024
 
 1. Information We Collect
     - We may collect personal information that you voluntarily provide to us. This includes your name, email address, phone number, and any other information you choose to share with us.
