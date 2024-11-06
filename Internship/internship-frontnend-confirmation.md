@@ -5,7 +5,7 @@ Thank you for your interest in the Frontend Web Development internship.
 We are pleased to inform you that your internship will start from [Date]. Here are the next steps to proceed:
 
 1. **Confirmation:** Please confirm your acceptance of this internship start date by replying to this email.
-2. **Preparation:** Review the [Internship Program Details](https://tspsoft.tech/internship) and [Internship Policy](https://tspsoft.tech/internship-policy) to familiarize yourself with our guidelines and expectations.
+2. **Preparation:** Review the [Internship Program Details](https://tspsoft.in/internship) and [Internship Policy](https://tspsoft.in/internship-policy) to familiarize yourself with our guidelines and expectations.
 3. **Onboarding:** Once you confirm, you will receive an onboarding email with further instructions, including access to our communication channels and training materials.
 
 **Detailed Syllabus for Frontend Web Development Internship:**
