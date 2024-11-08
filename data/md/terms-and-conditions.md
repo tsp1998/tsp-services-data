@@ -1,5 +1,5 @@
 ## Terms & Conditions
-### Last Updated: 21/06/2024
+### Last Updated: 08/11/2024
 
 1. **Accounts Management**:
     - All accounts related to hosting, third-party services, and other necessary services for your project will be exclusively managed by our team at TSPSoft Tech.
@@ -73,13 +73,19 @@
     - **Refund Period**: The refund period will be calculated from the day when 100% of the fee is paid for all aspects mentioned above, including hosting and third-party services/products, if applicable. These hosting/services/products, as applicable, will be purchased on the same day of full fee submission.
 
 
-11. **Customer Responsibility & Legal Compliance**:
+11. **Backup Responsibility**:
+    - Users are responsible for data loss if they do not follow provided instructions, such as backing up data using various methods like cloud backup, local disk backup on their device, using provided panels such as the admin panel, or any other method suggested by us.
+    - We are not responsible for any data loss or recovery in the event of disasters such as server crashes, database server crashes, hosting account bans, or other third-party account issues.
+    - While we will try to assist and communicate with third parties as needed, we cannot guarantee data recovery if you haven't followed our backup instructions.
+
+
+12. **Customer Responsibility & Legal Compliance**:
     - By using our services or the projects we deliver, you agree to use them for lawful purposes only.
     - If a customer engages in illegal activities through the use of our services or the delivered projects, the customer will be solely responsible for their actions and any legal consequences that may arise.
     - If our team unintentionally develops an project or provides services that facilitate illegal activities due to a lack of understanding of the customer's requirements, the customer will still be solely responsible for their actions and any legal consequences that may arise.
     - We do not condone or support any illegal activities, and our services are intended for lawful purposes only.
 
 
-12. **Reservation of Rights**:
+13. **Reservation of Rights**:
     - We reserve the right to make changes to our services, including pricing, features, and terms and conditions, to adapt to evolving industry trends and ensure the best possible experience for our customers.
     - Any modifications will be communicated to you in a timely manner.
