@@ -1,5 +1,5 @@
 ## VIP Partnership Policy
-### Last Updated: 21/06/2024
+### Last Updated: 30/11/2024
 
 **Introduction:**
   - Welcome to our VIP Partnership Program! This policy outlines the terms and benefits of becoming a VIP Partner with us. This program is designed for individuals and businesses looking to earn by bringing in customers for our software services and products.
@@ -22,6 +22,7 @@
   - Business Shared Hosting: 15% profit share.
   - Cloud Startup Shared Hosting: 25% profit share.
   - Additional increase of 1% profit share for each new partner you referred joins us.
+  - IMPORTANT: Profit share will be given to partners after the refund period of the project/services purchase has ended and if the customer does not apply for a refund.
 
 **How It Works:**
   1. Prospective partners are required to complete a registration process, furnishing essential business information such as business name, address, and contact details.
